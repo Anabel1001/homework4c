@@ -1,0 +1,15 @@
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\bin\Debug\net7.0\task29.exe
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\bin\Debug\net7.0\task29.deps.json
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\bin\Debug\net7.0\task29.runtimeconfig.json
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\bin\Debug\net7.0\task29.dll
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\bin\Debug\net7.0\task29.pdb
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\obj\Debug\net7.0\task29.csproj.AssemblyReference.cache
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\obj\Debug\net7.0\task29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\obj\Debug\net7.0\task29.AssemblyInfoInputs.cache
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\obj\Debug\net7.0\task29.AssemblyInfo.cs
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\obj\Debug\net7.0\task29.csproj.CoreCompileInputs.cache
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\obj\Debug\net7.0\task29.dll
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\obj\Debug\net7.0\refint\task29.dll
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\obj\Debug\net7.0\task29.pdb
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\obj\Debug\net7.0\task29.genruntimeconfig.cache
+D:\Обучение GeekBrains\Введение в программирование\Семинары\Homework\дз_семинар 4\task29\obj\Debug\net7.0\ref\task29.dll
